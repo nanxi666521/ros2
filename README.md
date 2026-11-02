@@ -1,6 +1,6 @@
 MuJoCo人形机器人仿真
 项目简介：
-基于MuJoCo搭建简易人形机器人，完成动态仿真，本次作业不使用Gazebo。
+基于MuJoCo搭建简易人形机器人，完成动态仿真.
  
 文件结构：
 - humanoid_sim：仿真代码，sim.py为主程序
